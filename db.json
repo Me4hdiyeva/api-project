@@ -1,0 +1,127 @@
+{
+   "sliders" : [
+        {
+          "id": 1,
+          "title": "Gözəl Persiya Pişikləri",
+          "url": "https://example.com/images/persian_cat_slider.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Hindistancevizi ilə Möhtəşəm Çimərliklər",
+          "url": "https://example.com/images/beach_slider.jpg"
+        },
+        {
+          "id": 3,
+          "title": "İtaliyada Unikal Şəhər Mənzərələri",
+          "url": "https://example.com/images/italy_city_slider.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Parlaq Aurora Borealis Səhnələri",
+          "url": "https://example.com/images/aurora_borealis_slider.jpg"
+        },
+        {
+          "id": 5,
+          "title": "Müasir Texnologiya Konsepsiyası",
+          "url": "https://example.com/images/technology_slider.jpg"
+        },
+        {
+          "id": 6,
+          "title": "Tropik Meşə Üzərində Gün Doğumu",
+          "url": "https://example.com/images/sunrise_forest_slider.jpg"
+        },
+        {
+          "id": 7,
+          "title": "Klassik Avtomobil Şöhrəti",
+          "url": "https://example.com/images/classic_car_slider.jpg"
+        },
+        {
+          "id": 8,
+          "title": "Rahatlıq üçün Minimalist Dizayn",
+          "url": "https://example.com/images/minimalist_design_slider.jpg"
+        }
+      ],
+   "animals" : [
+        {
+          "id": 1,
+          "name": "Simba",
+          "animalType": "Pişik",
+          "breed": "Persiya",
+          "age": 2,
+          "weight": "4 kg",
+          "owner": "John Doe",
+          "imageURL": "https://example.com/images/simba.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Bella",
+          "animalType": "İt",
+          "breed": "Golden Retriever",
+          "age": 3,
+          "weight": "25 kg",
+          "owner": "Jane Smith",
+          "imageURL": "https://example.com/images/bella.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Coco",
+          "animalType": "Quş",
+          "breed": "Tutuquşu",
+          "age": 1,
+          "weight": "0.2 kg",
+          "owner": "Emily Davis",
+          "imageURL": "https://example.com/images/coco.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Luna",
+          "animalType": "Pişik",
+          "breed": "Bengal",
+          "age": 4,
+          "weight": "4.5 kg",
+          "owner": "Michael Johnson",
+          "imageURL": "https://example.com/images/luna.jpg"
+        },
+        {
+          "id": 5,
+          "name": "Max",
+          "animalType": "İt",
+          "breed": "Alman Çoban",
+          "age": 5,
+          "weight": "30 kg",
+          "owner": "Chris Brown",
+          "imageURL": "https://example.com/images/max.jpg"
+        },
+        {
+          "id": 6,
+          "name": "Charlie",
+          "animalType": "Dovşan",
+          "breed": "Angora",
+          "age": 2,
+          "weight": "3 kg",
+          "owner": "Sophia Wilson",
+          "imageURL": "https://example.com/images/charlie.jpg"
+        },
+        {
+          "id": 7,
+          "name": "Buddy",
+          "animalType": "İt",
+          "breed": "Beagle",
+          "age": 3,
+          "weight": "10 kg",
+          "owner": "Daniel Lee",
+          "imageURL": "https://example.com/images/buddy.jpg"
+        },
+        {
+          "id": 8,
+          "name": "Milo",
+          "animalType": "Pişik",
+          "breed": "Siam",
+          "age": 1,
+          "weight": "3.8 kg",
+          "owner": "Olivia Martinez",
+          "imageURL": "https://example.com/images/milo.jpg"
+        }
+      ]
+      
+}
