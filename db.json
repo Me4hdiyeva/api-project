@@ -1,206 +1,29 @@
 {
-  "movies": [
+  "students":[
     {
-      "id": "1",
-      "title": "The Shawshank Redemption",
-      "year": 1994,
-      "genre": [
-        "Drama"
-      ],
-      "poster": "link_to_poster_image",
-      "desc": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
-      "cast": [
-        {
-          "id": "1",
-          "fullName": "Tim Robbins",
-          "age": 65,
-          "country": "USA"
-        },
-        {
-          "id": "2",
-          "fullName": "Morgan Freeman",
-          "age": 87,
-          "country": "USA"
-        }
-      ]
-    },
-    {
-      "id": "3",
-      "title": "The Dark Knight",
-      "year": 2008,
-      "genre": [
-        "Action",
-        "Crime",
-        "Drama"
-      ],
-      "poster": "link_to_poster_image",
-      "desc": "When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham.",
-      "cast": [
-        {
-          "id": "3",
-          "fullName": "Christian Bale",
-          "age": 50,
-          "country": "USA"
-        },
-        {
-          "id": "4",
-          "fullName": "Heath Ledger",
-          "age": 28,
-          "country": "Australia"
-        }
-      ]
-    },
-    {
-      "id": "4",
-      "title": "Pulp Fiction",
-      "year": 1994,
-      "genre": [
-        "Crime",
-        "Drama"
-      ],
-      "poster": "link_to_poster_image",
-      "desc": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
-      "cast": [
-        {
-          "id": "5",
-          "fullName": "John Travolta",
-          "age": 70,
-          "country": "USA"
-        },
-        {
-          "id": "6",
-          "fullName": "Uma Thurman",
-          "age": 53,
-          "country": "USA"
-        }
-      ]
-    },
-    {
-      "id": "5",
-      "title": "Forrest Gump",
-      "year": 1994,
-      "genre": [
-        "Drama",
-        "Romance"
-      ],
-      "poster": "link_to_poster_image",
-      "desc": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an extraordinary level of intelligence.",
-      "cast": [
-        {
-          "id": "7",
-          "fullName": "Tom Hanks",
-          "age": 67,
-          "country": "USA"
-        },
-        {
-          "id": "8",
-          "fullName": "Robin Wright",
-          "age": 58,
-          "country": "USA"
-        }
-      ]
-    },
-    {
-      "id": "6",
-      "title": "Inception",
-      "year": 2010,
-      "genre": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
-      ],
-      "poster": "link_to_poster_image",
-      "desc": "A thief who enters the dreams of others to steal secrets from their subconscious is given the task of planting an idea into the mind of a CEO.",
-      "cast": [
-        {
-          "id": "9",
-          "fullName": "Leonardo DiCaprio",
-          "age": 49,
-          "country": "USA"
-        },
-        {
-          "id": "10",
-          "fullName": "Joseph Gordon-Levitt",
-          "age": 43,
-          "country": "USA"
-        }
-      ]
-    },
-    {
-      "id": "7",
-      "title": "The Matrix",
-      "year": 1999,
-      "genre": [
-        "Action",
-        "Sci-Fi"
-      ],
-      "poster": "link_to_poster_image",
-      "desc": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
-      "cast": [
-        {
-          "id": "11",
-          "fullName": "Keanu Reeves",
-          "age": 59,
-          "country": "Canada"
-        },
-        {
-          "id": "12",
-          "fullName": "Laurence Fishburne",
-          "age": 63,
-          "country": "USA"
-        }
-      ]
-    },
-    {
-      "id": "9",
-      "title": "The Lord of the Rings: The Fellowship of the Ring",
-      "year": 2001,
-      "genre": [
-        "Adventure",
-        "Drama",
-        "Fantasy"
-      ],
-      "poster": "link_to_poster_image",
-      "desc": "A young hobbit, Frodo, is recruited by a wizard to join a quest to destroy the One Ring and end the Dark Lord Sauron's reign of terror.",
-      "cast": [
-        {
-          "id": "15",
-          "fullName": "Elijah Wood",
-          "age": 43,
-          "country": "USA"
-        },
-        {
-          "id": "16",
-          "fullName": "Ian McKellen",
-          "age": 85,
-          "country": "UK"
-        }
-      ]
-    },
-    {
-      "id": "10",
-      "title": "Fight Club",
-      "year": 1999,
-      "genre": [
-        "Drama"
-      ],
-      "poster": "link_to_poster_image",
-      "desc": "An insomniac office worker and a soap salesman form an underground fight club that evolves into something much, much more.",
-      "cast": [
-        {
-          "id": "17",
-          "fullName": "Brad Pitt",
-          "age": 60,
-          "country": "USA"
-        },
-        {
-          "id": "18",
-          "fullName": "Edward Norton",
-          "age": 54,
-          "country": "USA"
-        }
-      ]
-    }
-  ]
+        "id": 1,
+        "name": "Ali Məmmədov",
+        "grade": 85,
+        "status": "passed"
+      },
+      {
+        "id": 2,
+        "name": "Leyla Hüseynova",
+        "grade": 45,
+        "status": "failed"
+      },
+      {
+        "id": 3,
+        "name": "Elvin Quliyev",
+        "grade": 75,
+        "status": "passed"
+      },
+      {
+        "id": 4,
+        "name": "Aysel Əhmədova",
+        "grade": 50,
+        "status": "failed"
+      }
+]
       
 }
