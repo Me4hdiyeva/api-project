@@ -1,29 +1,33 @@
 {
-  "students":[
+  "artists": [
     {
-        "id": 1,
-        "name": "Ali Məmmədov",
-        "grade": 85,
-        "status": "passed"
-      },
-      {
-        "id": 2,
-        "name": "Leyla Hüseynova",
-        "grade": 45,
-        "status": "failed"
-      },
-      {
-        "id": 3,
-        "name": "Elvin Quliyev",
-        "grade": 75,
-        "status": "passed"
-      },
-      {
-        "id": 4,
-        "name": "Aysel Əhmədova",
-        "grade": 50,
-        "status": "failed"
-      }
-]
+      "id": "3",
+      "name": "Melody King",
+      "imgSrc": "melody_king_image.jpg",
+      "genre": "R&B",
+      "country": "UK",
+      "age": 32,
+      "info": "Known for his soulful voice and lyrics.",
+      "isVerified": true,
+      "songs": []
+    },
+    {
+      "id": "4",
+      "name": "Rocky Star",
+      "imgSrc": "rocky_star_image.jpg",
+      "genre": "Rock",
+      "country": "Australia",
+      "age": 28,
+      "info": "A rising star in the rock scene.",
+      "isVerified": true,
+      "songs": [
+        {
+          "title": "slama",
+          "releaseYear": "322",
+          "coverSrc": "ass"
+        }
+      ]
+    }
+  ]
       
 }
