@@ -1,122 +1,206 @@
 {
-   "sliders" : [
-        {
-          "id": 1,
-          "title": "Gözəl Persiya Pişikləri",
-          "url": "https://avatars.mds.yandex.net/i?id=686d0e849aeea67aeb3eb675e920eccc9d032cf9-12752503-images-thumbs&n=13"
-        },
-        {
-          "id": 2,
-          "title": "Hindistancevizi ilə Möhtəşəm Çimərliklər",
-          "url": "https://avatars.mds.yandex.net/i?id=cdd2657b600997a5e234b720550ec8df66b4cda6-10638774-images-thumbs&n=13"
-        },
-        {
-          "id": 3,
-          "title": "İtaliyada Unikal Şəhər Mənzərələri",
-          "url": "https://avatars.mds.yandex.net/i?id=b315f1354fa1c9662ab8248cb52ec5d40c1c351a-5315965-images-thumbs&n=13"
-        },
-        {
-          "id": 4,
-          "title": "Parlaq Aurora Borealis Səhnələri",
-          "url": "https://avatars.mds.yandex.net/i?id=ba039a664c246f3e8c0dbb887ff37c9c990f08fa-3610079-images-thumbs&n=13"
-        },
-        {
-          "id": 5,
-          "title": "Tropik Meşə Üzərində Gün Doğumu",
-          "url": "https://i.pinimg.com/originals/5d/39/52/5d39523f1be9264b36f4fed2c1509f3c.jpg"
-        },
-        {
-          "id": 6,
-          "title": "Klassik Avtomobil Şöhrəti",
-          "url": "https://avatars.mds.yandex.net/i?id=04a605afc6503141a2072c4ae5816a706b59886f-8497900-images-thumbs&n=13"
-        },
-        {
-          "id": 7,
-          "title": "Rahatlıq üçün Minimalist Dizayn",
-          "url": "https://avatars.mds.yandex.net/i?id=ba6e546aae224c84ebf9a8331a3c0455194f773a-4233036-images-thumbs&n=13"
-        }
+  "movies": [
+    {
+      "id": "1",
+      "title": "The Shawshank Redemption",
+      "year": 1994,
+      "genre": [
+        "Drama"
       ],
-   "animals" : [
+      "poster": "link_to_poster_image",
+      "desc": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "cast": [
         {
-          "id": 1,
-          "name": "Simba",
-          "animalType": "Pişik",
-          "breed": "Persiya",
-          "age": 2,
-          "weight": "4 kg",
-          "owner": "John Doe",
-          "imageURL": "https://example.com/images/simba.jpg"
+          "id": "1",
+          "fullName": "Tim Robbins",
+          "age": 65,
+          "country": "USA"
         },
         {
-          "id": 2,
-          "name": "Bella",
-          "animalType": "İt",
-          "breed": "Golden Retriever",
-          "age": 3,
-          "weight": "25 kg",
-          "owner": "Jane Smith",
-          "imageURL": "https://example.com/images/bella.jpg"
-        },
-        {
-          "id": 3,
-          "name": "Coco",
-          "animalType": "Quş",
-          "breed": "Tutuquşu",
-          "age": 1,
-          "weight": "0.2 kg",
-          "owner": "Emily Davis",
-          "imageURL": "https://example.com/images/coco.jpg"
-        },
-        {
-          "id": 4,
-          "name": "Luna",
-          "animalType": "Pişik",
-          "breed": "Bengal",
-          "age": 4,
-          "weight": "4.5 kg",
-          "owner": "Michael Johnson",
-          "imageURL": "https://example.com/images/luna.jpg"
-        },
-        {
-          "id": 5,
-          "name": "Max",
-          "animalType": "İt",
-          "breed": "Alman Çoban",
-          "age": 5,
-          "weight": "30 kg",
-          "owner": "Chris Brown",
-          "imageURL": "https://example.com/images/max.jpg"
-        },
-        {
-          "id": 6,
-          "name": "Charlie",
-          "animalType": "Dovşan",
-          "breed": "Angora",
-          "age": 2,
-          "weight": "3 kg",
-          "owner": "Sophia Wilson",
-          "imageURL": "https://example.com/images/charlie.jpg"
-        },
-        {
-          "id": 7,
-          "name": "Buddy",
-          "animalType": "İt",
-          "breed": "Beagle",
-          "age": 3,
-          "weight": "10 kg",
-          "owner": "Daniel Lee",
-          "imageURL": "https://example.com/images/buddy.jpg"
-        },
-        {
-          "id": 8,
-          "name": "Milo",
-          "animalType": "Pişik",
-          "breed": "Siam",
-          "age": 1,
-          "weight": "3.8 kg",
-          "owner": "Olivia Martinez",
-          "imageURL": "https://example.com/images/milo.jpg"
+          "id": "2",
+          "fullName": "Morgan Freeman",
+          "age": 87,
+          "country": "USA"
         }
       ]
+    },
+    {
+      "id": "3",
+      "title": "The Dark Knight",
+      "year": 2008,
+      "genre": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "poster": "link_to_poster_image",
+      "desc": "When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham.",
+      "cast": [
+        {
+          "id": "3",
+          "fullName": "Christian Bale",
+          "age": 50,
+          "country": "USA"
+        },
+        {
+          "id": "4",
+          "fullName": "Heath Ledger",
+          "age": 28,
+          "country": "Australia"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Pulp Fiction",
+      "year": 1994,
+      "genre": [
+        "Crime",
+        "Drama"
+      ],
+      "poster": "link_to_poster_image",
+      "desc": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "cast": [
+        {
+          "id": "5",
+          "fullName": "John Travolta",
+          "age": 70,
+          "country": "USA"
+        },
+        {
+          "id": "6",
+          "fullName": "Uma Thurman",
+          "age": 53,
+          "country": "USA"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Forrest Gump",
+      "year": 1994,
+      "genre": [
+        "Drama",
+        "Romance"
+      ],
+      "poster": "link_to_poster_image",
+      "desc": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an extraordinary level of intelligence.",
+      "cast": [
+        {
+          "id": "7",
+          "fullName": "Tom Hanks",
+          "age": 67,
+          "country": "USA"
+        },
+        {
+          "id": "8",
+          "fullName": "Robin Wright",
+          "age": 58,
+          "country": "USA"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Inception",
+      "year": 2010,
+      "genre": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "poster": "link_to_poster_image",
+      "desc": "A thief who enters the dreams of others to steal secrets from their subconscious is given the task of planting an idea into the mind of a CEO.",
+      "cast": [
+        {
+          "id": "9",
+          "fullName": "Leonardo DiCaprio",
+          "age": 49,
+          "country": "USA"
+        },
+        {
+          "id": "10",
+          "fullName": "Joseph Gordon-Levitt",
+          "age": 43,
+          "country": "USA"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "The Matrix",
+      "year": 1999,
+      "genre": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "poster": "link_to_poster_image",
+      "desc": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+      "cast": [
+        {
+          "id": "11",
+          "fullName": "Keanu Reeves",
+          "age": 59,
+          "country": "Canada"
+        },
+        {
+          "id": "12",
+          "fullName": "Laurence Fishburne",
+          "age": 63,
+          "country": "USA"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "genre": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "poster": "link_to_poster_image",
+      "desc": "A young hobbit, Frodo, is recruited by a wizard to join a quest to destroy the One Ring and end the Dark Lord Sauron's reign of terror.",
+      "cast": [
+        {
+          "id": "15",
+          "fullName": "Elijah Wood",
+          "age": 43,
+          "country": "USA"
+        },
+        {
+          "id": "16",
+          "fullName": "Ian McKellen",
+          "age": 85,
+          "country": "UK"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Fight Club",
+      "year": 1999,
+      "genre": [
+        "Drama"
+      ],
+      "poster": "link_to_poster_image",
+      "desc": "An insomniac office worker and a soap salesman form an underground fight club that evolves into something much, much more.",
+      "cast": [
+        {
+          "id": "17",
+          "fullName": "Brad Pitt",
+          "age": 60,
+          "country": "USA"
+        },
+        {
+          "id": "18",
+          "fullName": "Edward Norton",
+          "age": 54,
+          "country": "USA"
+        }
+      ]
+    }
+  ]
       
 }
