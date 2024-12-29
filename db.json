@@ -1,32 +1,36 @@
 {
-  "artists": [
+ "users": [
     {
-      "id": "3",
-      "name": "Melody King",
-      "imgSrc": "melody_king_image.jpg",
-      "genre": "R&B",
-      "country": "UK",
-      "age": 32,
-      "info": "Known for his soulful voice and lyrics.",
-      "isVerified": true,
-      "songs": []
+      "id": "u1",
+      "fullName": "John Doe",
+      "username": "johndoe",
+      "email": "john.doe@example.com",
+      "password": "password123",
+      "profileImage": "https://via.placeholder.com/150&quot",
+      "role": "teacher",
+      "major": "Programming",
+      "bio": "Passionate about teaching math and programming.",
+      "socialLinks": {
+        "linkedin": "https://linkedin.com/in/johndoe&quot",
+        "twitter": "https://twitter.com/johndoe&quot"
+      }
     },
     {
-      "id": "4",
-      "name": "Rocky Star",
-      "imgSrc": "rocky_star_image.jpg",
-      "genre": "Rock",
-      "country": "Australia",
-      "age": 28,
-      "info": "A rising star in the rock scene.",
-      "isVerified": true,
-      "songs": [
+      "id": "u2",
+      "fullName": "Jane Smith",
+      "username": "janesmith",
+      "email": "jane.smith@example.com",
+      "password": "securepass",
+      "profileImage": "https://via.placeholder.com/150&quot",
+      "role": "student",
+      "major": "IT",
+      "grades": [
         {
-          "title": "slama",
-          "releaseYear": "322",
-          "coverSrc": "ass"
+          "taskId": "t1",
+          "grade": 85
         }
-      ]
+      ],
+      "overallGrade": 87
     }
   ]
       
